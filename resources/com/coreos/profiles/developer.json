@@ -85,8 +85,8 @@
      * credentials ID should point to the private key file to be used,
      * and the e-mail address identifies it to the GPG command.
      */
-    "SIGNING_CREDS": "e9f1dec5-8892-4bac-909d-a6378cd87b1d",
-    "SIGNING_USER": "ct-automation-os@redhat.com",
+    "SIGNING_CREDS": "7fdc5e5b-560c-4cf6-a86e-531d2401d41a",
+    "SIGNING_USER": "0x0638EB2F!",
 
     /*
      * The torcx manifests specify URLs from which to download torcx
